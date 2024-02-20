@@ -92,9 +92,4 @@ The API uses [multer](https://www.npmjs.com/package/multer) for file uploads and
 - [path](https://nodejs.org/api/path.html): Utilities for working with file and directory paths.
 
 
-## Demo Screenshot
-
-![File Management Application Demo](screenshot.png)
-
-
 
